@@ -1,9 +1,9 @@
 <h1>My Portfolio</h1>
 
- ### [My Elevator Pitch](https://youtu.be/7eJexJVCqJo)
+ ### [My Elevator Pitch](https://docs.google.com/document/d/1Mm6ofu_6eywGsrCbPjPjXVwniMT38SXrm5KynVaPw5k/edit?usp=drivesdk)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I am an Accounts Officer, ICT graduate, and certified Virtual Assistant with additional training in Customer Experience for Business Success. I specialize in financial management, administrative support, and client relations, and I take pride in delivering accurate, efficient, and customer-focused solutions.
 <br />
 
 
